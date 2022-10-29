@@ -44,7 +44,7 @@ Exemplo utilizado neste modelo é da HOSTINGER
 Criando uma imagem do instalador do WhaTicket na pasta raiz
 ```bash
 cd ~
-sudo git clone https://github.com/saunier33/whaticket_installer.git
+sudo git clone https://github.com/Digulgasoft/whaticket_installer.git
 sudo chmod +x ./whaticket_installer/whaticket
 cd ./whaticket_installer
 sudo ./whaticket
